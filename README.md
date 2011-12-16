@@ -26,5 +26,5 @@ Meanwhile, in the [WiKi...](https://github.com/entando/Entando/wiki)
 * Netbeans 7.0.1+
 
 ### Third-party tools and contributions:
-* [Page model builder by Nkjoep](http://nkjoep.altervista.org/japspagemodelbuilder/)
-* [Entando Plugin: Static Resource Editor by Nkjoep](https://github.com/NKjoep/jpstaticresourceeditor)
+* [Page model builder](http://nkjoep.altervista.org/japspagemodelbuilder/) by Nkjoep
+* [Entando Plugin: Static Resource Editor](https://github.com/NKjoep/jpstaticresourceeditor) by Nkjoep
