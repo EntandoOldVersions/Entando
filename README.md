@@ -5,11 +5,12 @@ Meanwhile, in the [WiKi...](https://github.com/entando/Entando/wiki)
 
 ## In related news, what you're looking for?
 
-* [The archetype for a portal, to just get started...](https://github.com/entando/entando-archetype-portal-generic/)
-* [The core engine, who cares about webapps?](https://github.com/entando/entando-core-engine/)
-* [The core webapp, who could work without it?](https://github.com/entando/entando-core-webapp/)
-* [Pluginz, I need pluginz!](https://github.com/entando/entando-plugins-parent/)
-* [The archetype for a plugin, to blow some minds with my amazing idea!](https://github.com/entando/entando-archetype-plugin-generic/)
+* [Documentation](https://github.com/entando/Entando/wiki)
+* [Sources: The archetype for a portal, to just get started...](https://github.com/entando/entando-archetype-portal-generic/)
+* [Sources: The core engine, who cares about webapps?](https://github.com/entando/entando-core-engine/)
+* [Sources: The core webapp, who could work without it?](https://github.com/entando/entando-core-webapp/)
+* [Sources: Pluginz, I need pluginz!](https://github.com/entando/entando-plugins-parent/)
+* [Sources: The archetype for a plugin, to blow some minds with my amazing idea!](https://github.com/entando/entando-archetype-plugin-generic/)
 
 ## Also, what is needed to put together a development environment?
 
@@ -23,3 +24,7 @@ Meanwhile, in the [WiKi...](https://github.com/entando/Entando/wiki)
 
 * Eclipse Indigo with m2eclipse, WTP, and m2e-wtp (m2e-wtp 0.15+)
 * Netbeans 7.0.1+
+
+### Third-party tools and contributions:
+* [Page model builder by Nkjoep](http://nkjoep.altervista.org/japspagemodelbuilder/)
+* [Entando Plugin: Static Resource Editor by Nkjoep](https://github.com/NKjoep/jpstaticresourceeditor)
