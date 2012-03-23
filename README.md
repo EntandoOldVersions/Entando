@@ -18,7 +18,7 @@ Meanwhile, in the [WiKi...](https://github.com/entando/Entando/wiki)
 * Maven 2.2.1
 * Ant 1.8+
 * Ant Contrib
-* PostgreSQL 8.3+
+* PostgreSQL 8.3+ or MySQL 5.0+
 
 ### Optional
 
