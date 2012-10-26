@@ -1,7 +1,7 @@
-# Something new is coming
-And everything will change.
+# Entando
+## Enterprise Portals Reinvented
 
-Meanwhile, in the [WiKi...](https://github.com/entando/Entando/wiki)
+Check out the **useful guides in the [WiKi](https://github.com/entando/Entando/wiki)**
 
 ## In related news, what you're looking for?
 
