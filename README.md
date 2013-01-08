@@ -26,6 +26,6 @@ Check out the **useful guides in the [WiKi](https://github.com/entando/Entando/w
 * Netbeans 7.0.1+
 
 ### Third-party tools and contributions:
-* [Page model builder](http://nkjoep.altervista.org/japspagemodelbuilder/) by Nkjoep
+* [Page model builder](http://nkjoep.github.com/EntandoPageModelsBuilder/) by Nkjoep
 * [Entando Plugin: Static Resource Editor](https://github.com/NKjoep/jpstaticresourceeditor) by Nkjoep
 * [Alternative "Getting Started"](http://rfrombruxelles.blogspot.com/2011/12/first-step-with-entando.html) by Rinaldo Bonazzo
