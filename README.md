@@ -1,5 +1,5 @@
 # Entando
-## Enterprise Portals Reinvented
+## Simplifying Enterprise Portals
 
 Check out the **useful guides in the [WiKi](https://github.com/entando/Entando/wiki)**
 
