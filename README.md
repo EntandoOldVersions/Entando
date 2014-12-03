@@ -7,6 +7,5 @@
 
 ### Third-party tools and contributions
 
-* [Page model builder](http://nkjoep.github.com/EntandoPageModelsBuilder/) by Nkjoep
-* [Entando Plugin: Static Resource Editor](https://github.com/NKjoep/jpstaticresourceeditor) by Nkjoep
+* [Page model builder](http://nkjoep.github.com/EntandoPageModelsBuilder/) by Andrea D.
 * [Alternative "Getting Started"](http://rfrombruxelles.blogspot.com/2011/12/first-step-with-entando.html) by Rinaldo Bonazzo
